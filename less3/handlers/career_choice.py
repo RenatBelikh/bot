@@ -69,3 +69,4 @@ async def grade_chosen(message: types.Message, state: FSMContext):
 async def grade_chosen_incorrect (message: types.Message):
     await message.answer(text="Выберите уровень", reply_markup=make_row_keyboard(available_grades))
 #добавил комментарий
+#добавил еще комментарий

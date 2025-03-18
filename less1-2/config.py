@@ -1,1 +1,1 @@
-token= "7839383365:AAEmoJqLufZG7yc5iZKCJLXeCpxQspzV1sw"
+token= ""
